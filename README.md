@@ -1,3 +1,3 @@
 # RCLI
 
-RCLI is a rust CLI tool
+rcli is a rust CLI tool
